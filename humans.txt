@@ -3,6 +3,7 @@
 
 # TEAM
 	rmohatt	admin	twit@twist.com
+        lexie	peek	upskirt@.com
     <name> -- <role> -- <twitter>
 
 # THANKS
